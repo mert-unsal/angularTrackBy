@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "trackByDemo"
+  "defaultProject": "trackByDemo",
+  "cli": {
+    "analytics": false
+  }
 }
